@@ -1,8 +1,5 @@
 pandas
-numpy
-matplotlib
-scipy
-sklearn
 datetime
 streamlit
 plotly.express
+plotly
